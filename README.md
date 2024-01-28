@@ -28,6 +28,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xborgkenkent&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
-![Lines of Code chart](https://raw.githubusercontent.com/xborgkenkent/xborgkenkent/master/assets/bar_graph.png)
