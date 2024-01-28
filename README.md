@@ -1,4 +1,3 @@
-<!--
 **xborgkenkent/xborgkenkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,14 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <br/>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&repeat=false&width=435&lines=Hello+there,%2C+I'm+Kent!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&repeat=false&width=435&lines=Hello+there%2C+I'm+Kent!" alt="Typing SVG" /></a>
 </p>
 # 💫About Me :
-
-I'm <b>Kent Regiel Buncal</b> a Filipino Programmer, I live in Cebu City, Philippines, I'm a graduate from University of Cebu - Lapu-lapu & Mandaue with a degree in Information Tecnology. I specialized in mobile, desktop, web development. And currently enhancing my development skills to give a better product and can transform an idea into a reality.
 <br />
 
 # 🌐Socials
