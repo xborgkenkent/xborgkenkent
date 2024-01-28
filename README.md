@@ -1,7 +1,3 @@
-**xborgkenkent/xborgkenkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +9,7 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&repeat=false&width=435&lines=Hello+there%2C+I'm+Kent!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=F7F7F7&multiline=true&random=false&width=435&height=80&lines=Hello%2C+I+am+Kent;A+junior+software+engineer" alt="Typing SVG" /></a>
 </p>
 # 💫About Me :
 <br />
