@@ -1,17 +1,7 @@
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=F7F7F7&random=false&width=435&height=80&lines=Hello%2C+I+am+Kent;A+junior+software+engineer" alt="Typing SVG" /></a>
-</p>
 
-<br/>
-# 💫About Me :
+## 💫 Hello!
+I am an experienced full-stack developer with a specialization in back-end development, complemented by extensive expertise in system automation and seamless integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently working as Software Engineer at Vauldex
-- ⚡ Fun fact: I love watching crime documentaries, yet I am afraid of horror movies. 
-
-<br />
-
-# 🌐Socials
-[LinkedIn](https://www.linkedin.com/in/kent-regiel-buncal-18464721b/)
+🌐Find me at [LinkedIn](https://www.linkedin.com/in/kent-regiel-buncal-18464721b/)
