@@ -30,12 +30,4 @@ A glimpse into my technical capabilities:
 - **Backend Architecture:** <kbd>Microservices</kbd>, <kbd>RESTful APIs</kbd>, <kbd>GraphQL</kbd>, <kbd>Caching</kbd>, <kbd>Load Balancing</kbd>
 - **Tools and DevOps:** <kbd>Docker</kbd>, <kbd>Git</kbd>, <kbd>CI/CD</kbd>, <kbd>Linux</kbd>, <kbd>AWS</kbd>, <kbd>Selenium</kbd>, <kbd>OpenAI</kbd>, <kbd>Supabase</kbd>, <kbd>ShadcnUI</kbd>
 <br />
-<br />
 
-# 🔗 Connect with Me
-
-Let's connect and explore opportunities!
-
-- [LinkedIn](https://www.linkedin.com/in/kent-regiel-buncal/)
-- [Portfolio](https://kroby.vercel.app/)
-<br />
