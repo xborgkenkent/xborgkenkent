@@ -24,8 +24,8 @@
 
 A glimpse into my technical capabilities:
 
-- **Programming Languages:** <kbd>Scala</kbd>, <kbd>Go (Golang)</kbd>, <kbd>Python</kbd>, <kbd>JavaScript</kbd>, <kbd>TypeScript</kbd>
-- **Frameworks:** <kbd>Node.js</kbd>, <kbd>Nuxt.js</kbd>, <kbd>Vue.js</kbd>, <kbd>Play</kbd>, <kbd>Laravel</kbd>, <kbd>FastAPI</kbd>, <kbd>Akka</kbd>, <kbd>TailwindCSS</kbd>
+- **Programming Languages:** <kbd>Scala</kbd>, <kbd>Go (Golang)</kbd>, <kbd>Python</kbd>, <kbd>JavaScript</kbd>, <kbd>TypeScript</kbd>, <kbd>Node.js</kbd>
+- **Frameworks:** <kbd>Nuxt.js</kbd>, <kbd>Vue.js</kbd>, <kbd>Express.js</kbd>, <kbd>Play</kbd>, <kbd>Laravel</kbd>, <kbd>FastAPI</kbd>, <kbd>Akka</kbd>, <kbd>TailwindCSS</kbd>
 - **Databases:** <kbd>PostgreSQL</kbd>, <kbd>MySQL</kbd>, <kbd>Redis</kbd>
 - **Backend Architecture:** <kbd>Microservices</kbd>, <kbd>RESTful APIs</kbd>, <kbd>GraphQL</kbd>, <kbd>Caching</kbd>, <kbd>Load Balancing</kbd>
 - **Tools and DevOps:** <kbd>Docker</kbd>, <kbd>Git</kbd>, <kbd>CI/CD</kbd>, <kbd>Linux</kbd>, <kbd>AWS</kbd>, <kbd>Selenium</kbd>, <kbd>OpenAI</kbd>, <kbd>Supabase</kbd>, <kbd>ShadcnUI</kbd>
