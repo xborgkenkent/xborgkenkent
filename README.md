@@ -15,7 +15,7 @@
 
 👋 Hi there! I'm Kent Regiel, a **Software Engineer** passionate about building robust, scalable, and efficient software solutions. I enjoy tackling complex technical challenges and leveraging a diverse tech stack to create impactful applications.
 
-- 🌱 Continuously exploring and expanding my expertise in areas like **AI Integrations and System Automations**.
+- 🌱 Continuously exploring and expanding my expertise in areas like **API Integrations and System Automations**.
 - ⚡ Fun fact: While I appreciate the logical precision of code, I also find the intricate narratives of crime documentaries fascinating... though horror movies are definitely not my cup of tea! 😅
 
 <br />
